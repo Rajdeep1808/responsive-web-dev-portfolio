@@ -182,7 +182,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
 }
 
 @media screen and (max-width: 576px) {
-    .skills-container, 
+    .skill-container, 
     .resume-container,
     .banner,
     nav,
